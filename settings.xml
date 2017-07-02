@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms_params Company="ИП Пример" INN="инн" KPP="">
+    <shop hostname="https://ваш_сайт/">
+    <access login="логин" password="пароль" group_code="группа"/>
+</shop>
+</cms_params>
